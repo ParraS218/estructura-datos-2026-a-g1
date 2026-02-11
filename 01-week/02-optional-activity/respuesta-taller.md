@@ -1,4 +1,4 @@
-Taller estrucutura de datos
+Taller Estructura de Datos
 1. Contexto
 Antes de programar estructuras de datos, es importante reconocer dónde aparecen en situaciones reales. Esta actividad busca que identifiques ejemplos cotidianos donde se utilice la organización de datos.
 
